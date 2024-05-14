@@ -1,5 +1,5 @@
 # Search for the optimal flight route for a drone based on the analysis of aerial photos
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/r0mz32/Abandoned-Object-Detection-YOLO-trackers/blob/main/AbObDet.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/r0mz32/UAV_flight_route/blob/main/Analysis_of_aerial_images_to_find_the_optimal_UAV_flight_route.ipynb)
 
 The full algorithm in Google Colab. The script demonstrates the operation of the algorithm and the graphical interface.
 
